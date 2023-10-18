@@ -1,4 +1,4 @@
-# Social Media App README
+# Social Media App
 
 ## Introduction
 
